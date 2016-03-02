@@ -1,2 +1,4 @@
-Utworzono w jêzyku Java w œrodowisku Eclipse
-Aby uruchomiæ nale¿y skompilowaæ w dowolnym œrodowisku
+Utworzono w jÄ™zyku Java w Å›rodowisku Eclipse
+Aby uruchomiÄ‡ naleÅ¼y skompilowaÄ‡ w dowolnym Å›rodowisku
+Zabraklo mi czasu, po zamianie przecinka na kropke powinna juz dzialac + brak poprawnego wyjatkuobsluzenia wyjatku.
+Aby uruchomic nalezy podac pelna sciezke do pliku tekstowego z danymi
